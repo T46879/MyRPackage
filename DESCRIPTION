@@ -1,0 +1,12 @@
+Package: MyRPackage
+Title: "mean_na","variance_na"" and "standardize" for numeric vectors"
+Version: 0.0.0.9000
+Authors@R: 
+    person("Tom", "Schneidzik", , "tom-schneidzik@t-online.de", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package provides essential data preprocessing functions for numerical vectors. It includes tools to calculate the mean and variance while ignoring missing values and to standardize data, making it easier to prepare datasets for analysis and modeling.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
